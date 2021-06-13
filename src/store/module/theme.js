@@ -1,0 +1,27 @@
+export default{
+    namespaced:true,
+    state:{
+        theme:[
+            {
+                name:"蓝色主题",
+                value:"#101f30",
+            },
+            {
+                name:"灰色主题",
+                value:"#5e7987",
+            },
+            {
+                name:"红色主题",
+                value:"#a61b29",
+            },
+            {
+                name:"黑色主题",
+                value:"#33141e",
+            },
+            {
+                name:"绿色主题",
+                value:"#229453",
+            }
+        ]
+    }
+}
